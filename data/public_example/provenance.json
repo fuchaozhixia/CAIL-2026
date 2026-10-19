@@ -1,0 +1,8 @@
+{
+  "source": "User-saved CAIL intelligent contract review task page, first pre block",
+  "source_url": "http://cail.cipsc.org.cn/task_summit?raceID=2&cail_tag=2026",
+  "saved_html_sha256": "4e4901e6799602ac52e7336160948034bc5d0f745896976cf18c84f7afb6ed71",
+  "input_extracted_verbatim": true,
+  "local_reference_is_official_gold": false,
+  "reference_note": "Project-authored full annotation, including arithmetic chain omitted by illustrative submission rows. Revisions use coherent wording from public example C002."
+}

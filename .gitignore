@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+!.env.example
+*.egg-info/
+data/raw/*
+!data/raw/.gitkeep
+outputs/
+tmp/
+build/
+dist/
+# Original course material and browser snapshots stay local.
+*.pdf
+网页存储/

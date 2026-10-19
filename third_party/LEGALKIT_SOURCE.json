@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/DavidMiao1127/LegalKit.git",
+  "checkout_method": "git clone (full history)",
+  "git_commit": "7db1cfd97ba47011fa169c55a2437cfde548dffa",
+  "branch": "main",
+  "source_directory": "third_party/LegalKit",
+  "upstream_source_modified": false,
+  "previous_archive_replaced": true
+}

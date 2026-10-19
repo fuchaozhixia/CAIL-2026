@@ -1,0 +1,5 @@
+{"contract_id":"DEMO001","location":[[2,2]],"error_types":["typo"],"original_text":"乙方应向甲方提共办公桌20张。","correct_answer":"乙方应向甲方提供办公桌20张。"}
+{"contract_id":"DEMO001","location":[[3,3]],"error_types":["typo"],"original_text":"乙方应在验收完城后开具发票。","correct_answer":"乙方应在验收完成后开具发票。"}
+{"contract_id":"DEMO001","location":[[5,5]],"error_types":["inconsistency"],"original_text":"办公桌单价100元，数量20张，合同总价2200元，总价按单价乘数量计算。","correct_answer":"办公桌单价100元，数量20张，合同总价2000元，总价按单价乘数量计算。"}
+{"contract_id":"DEMO001","location":[[6,6]],"error_types":["inconsistency"],"original_text":"甲方验收完成后5日内支付合同总价50%，即1100元；余款30日内付清。","correct_answer":"甲方验收完成后5日内支付合同总价50%，即1000元；余款30日内付清。"}
+{"contract_id":"DEMO003","location":[[8,8]],"error_types":["missing_element"],"original_text":"甲方在2026年11月10日前支付服务费人民币12000元，乙方收款银行：____；户名：____；账号：____。","correct_answer":"甲方在2026年11月10日前支付服务费人民币12000元，乙方收款银行：中国工商银行杭州文一路支行；户名：秋水公司；账号：1202000000000000001。"}

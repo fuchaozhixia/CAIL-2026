@@ -1,0 +1,5 @@
+{"contract_id":"DEMO001","location":[[2,2]],"error_type":"typo"}
+{"contract_id":"DEMO001","location":[[3,3]],"error_type":"typo"}
+{"contract_id":"DEMO001","location":[[5,6]],"error_type":"inconsistency"}
+{"contract_id":"DEMO002","location":[],"error_type":null}
+{"contract_id":"DEMO003","location":[[8,8]],"error_type":"missing_element"}

@@ -1,0 +1,3 @@
+[submodule "third_party/LegalKit"]
+	path = third_party/LegalKit
+	url = https://github.com/DavidMiao1127/LegalKit.git

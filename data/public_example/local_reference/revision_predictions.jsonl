@@ -1,0 +1,5 @@
+{"contract_id": "C001", "location": [[2, 2]], "error_types": ["typo"], "original_text": "乙方应向甲方提共办公桌20张。", "correct_answer": "乙方应向甲方提供办公桌20张。"}
+{"contract_id": "C001", "location": [[3, 3]], "error_types": ["typo", "inconsistency"], "original_text": "乙方北辰办公设备有限公司应在验收完城后开具发票。", "correct_answer": "乙方远山办公设备有限公司应在验收完成后开具发票。"}
+{"contract_id": "C001", "location": [[4, 4]], "error_types": ["missing_element"], "original_text": "乙方负责将货物送至甲方指定仓库。", "correct_answer": "乙方负责在本合同生效后10个工作日内将货物送至甲方指定仓库。"}
+{"contract_id": "C001", "location": [[5, 5]], "error_types": ["inconsistency"], "original_text": "合同总价按单价乘数量计算。办公桌单价100元，数量20张，合同总价2200元。", "correct_answer": "合同总价按单价乘数量计算。办公桌单价100元，数量20张，合同总价2000元。"}
+{"contract_id": "C001", "location": [[6, 6]], "error_types": ["inconsistency"], "original_text": "甲方在验收完成后5日内支付合同总价的50%，即1100元；余款在验收完成后30日内付清。", "correct_answer": "甲方在验收完成后5日内支付合同总价的50%，即1000元；余款在验收完成后30日内付清。"}

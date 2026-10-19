@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cail-contract-review"
+version = "0.1.0"
+description = "CAIL 2026 intelligent contract review coursework project"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+cail-review = "cail_review.cli:entrypoint"
+
+[tool.setuptools.packages.find]
+include = ["cail_review*"]
